@@ -12,3 +12,4 @@ C:\hocC\ConsoleApp4\obj\Debug\net10.0\refint\ConsoleApp4.dll
 C:\hocC\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.pdb
 C:\hocC\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.genruntimeconfig.cache
 C:\hocC\ConsoleApp4\obj\Debug\net10.0\ref\ConsoleApp4.dll
+C:\hocC\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.sourcelink.json
